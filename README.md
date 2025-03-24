@@ -35,24 +35,26 @@ Hello! My name is Fatih. Im an Information Systems undergraduate with a strong i
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
-- **Frameworks & Libraries**: React, NestJS, Next.js Django, PostgreSQL, Vue.js
-- **Tools & Platforms**: Docker, Git, GitHub Actions, GitLab
-
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ffatihzain&show_icons=true&theme=radical)
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ffatihzain&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffatihzain&layout=compact)](https://github.com/ffatihzain)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ffatihzain&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ffatihzain&theme=radical" alt="GitHub Streak" />
+  <br />
+  <a href="https://github.com/ffatihzain">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffatihzain&layout=compact" alt="Top Languages" />
+  </a>
+</div>
 
-## 🌐 Social Media Links
+## 🌐 Social Media
 
-<a href="https://www.linkedin.com/in/muhammad-fatih-zain-639793268/" 
-target="_blank">
-  <img src="images/linkedin.svg" alt="LinkedIn" width="30" style="vertical-align:middle; margin-right:10px;">
-</a>
-<a href="https://www.instagram.com/fatihzain/" 
-target="_blank">
-  <img src="images/instagram.svg" alt="LinkedIn" width="30" style="vertical-align:middle; margin-right:10px;">
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/muhammad-fatih-zain-639793268/" target="_blank">
+    <img src="images/linkedin.svg" alt="LinkedIn" width="30" style="vertical-align:middle; margin-right:10px;">
+  </a>
+  <a href="https://www.instagram.com/fatihzain/" target="_blank">
+    <img src="images/instagram.svg" alt="Instagram" width="30" style="vertical-align:middle; margin-right:10px;">
+  </a>
+</div>
 
 ## 📩 Contact Me
 Feel free to reach out to me via email at `fatihzain10@gmail.com` or connect with me on LinkedIn and Instagram!
